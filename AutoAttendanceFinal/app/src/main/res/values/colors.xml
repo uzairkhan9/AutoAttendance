@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#008577</color>-->
+    <!--<color name="colorPrimaryDark">#00574B</color>-->
+    <!--<color name="colorAccent">#D81B60</color>-->
+    <color name="colorPrimary">#555</color>
+    <color name="colorPrimaryDark">#333</color>
+    <color name="colorAccent">#aaa</color>
+    <color name="darkPrimary">#555</color>
+    <color name="darkPrimaryEx">#333333</color>
+    <color name="darkAccent">#aaaaaa</color>
+    <color name="electronPrimary">#FFFFFF</color>
+    <color name="electronPrimaryDark">#1A1D2A</color>
+    <color name="electronAccent">#000000</color>
+    <color name="electronAccentDark">#000000</color>
+    <color name="electronAccentDarkExtreme">#000000</color>
+</resources>

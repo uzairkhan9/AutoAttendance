@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_puppy.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\drawable\\puppy.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trial.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\drawable\\trial.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty_form.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\layout\\activity_faculty_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_wifi.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-hdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check_mark.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\drawable\\check_mark.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_trial.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-hdpi\\trial.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_trial_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\trial_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_trial_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-mdpi\\trial_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_trial.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-mdpi\\trial.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_wifi_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xhdpi\\wifi_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_trial_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\trial_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_form.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\layout\\activity_student_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_wifi.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_wifi_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-mdpi\\wifi_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_wifi_round.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\wifi_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_wifi_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-hdpi\\wifi_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_wifi_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\wifi_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_trial_round.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\trial_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_wifi.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-mdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_wifi.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\layout\\activity_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_custom.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\drawable\\button_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_trial.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\trial.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wifi_foreground.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\drawable\\wifi_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_trial.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\trial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check_mark_2.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\drawable\\check_mark_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_wifi_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\wifi_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\layout\\activity_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_wifi.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xhdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_trial_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xhdpi\\trial_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check_mark_1.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\drawable\\check_mark_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_trial_round.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-hdpi\\trial_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_trial.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xhdpi\\trial.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_wifi.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_trial.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\trial.png"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Uz\\Downloads\\AutoAttendanceFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    }
+]
